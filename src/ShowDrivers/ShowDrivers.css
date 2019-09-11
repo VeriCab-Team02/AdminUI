@@ -1,0 +1,56 @@
+.back {
+    background-image: url("../cab1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+
+.RidesStyle{
+    text-align: left;
+    margin-left: 150px;
+    font-size: larger;
+}
+
+
+
+.card:hover {
+    box-shadow: 10px 10px 5px grey;
+}
+
+
+.cardStyle {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cardBodyStyle {
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+}
+.PlaceLeft {
+    text-align: left;
+   
+}
+
+.PlaceRight {
+    text-align: right;
+}
+
+.LicenseInfoStyle {
+    text-align: left;
+    font-size: smaller;
+    text-decoration: none;
+    color: grey;
+    font-style: italic;
+    font-weight: 500;
+
+}
+
+.trashStyle{
+    background: none;
+    border: none;
+     
+}
+

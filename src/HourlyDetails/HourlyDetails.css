@@ -1,0 +1,12 @@
+@import '../../node_modules/bootstrap/dist/css/bootstrap.css';
+.hourlydetails_wrapper{
+
+}
+.btn{
+    background: red;
+  }
+
+.btn:hover{
+      background: orange; 
+      color: blue;
+  }

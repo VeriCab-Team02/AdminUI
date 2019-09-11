@@ -1,0 +1,14 @@
+@import '../../node_modules/bootstrap/dist/css/bootstrap.css';
+
+.inputfromuser_wrapper{
+
+}
+.jumbotron{
+    background: #4b6bc8;
+}
+input{
+    width: 500px;
+    height: 50px;
+    border-radius: 15px;
+}
+
